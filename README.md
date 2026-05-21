@@ -6,22 +6,9 @@
 
 ## Project Overview
 
-<div style="display: flex; gap: 25px; align-items: flex-start; flex-wrap: wrap;">
-  
-  <div style="flex: 1; min-width: 300px;">
-    <p>This project involved designing a complete relational database for a grocery store and solving <strong>33 real-world business questions</strong> using SQL.</p>
-    <p>It demonstrates my ability to build a normalized database from scratch and write both basic and advanced SQL queries to generate actionable business insights.</p>
-    <p>I focused on creating a clean, scalable database structure and developed analytical queries to support key decision-making areas such as <strong>customer behavior, sales trends, product performance, supplier evaluation, and employee productivity</strong>.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/Aashriya11/Grocery-Store-Management/blob/main/Assets/Project%20gif.gif" 
-         width="360" 
-         alt="Project Demo" 
-         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
-  </div>
-
-</div>
+| **Description** | **Demo** |
+|------------------|----------|
+| <p>This project involved designing a complete relational database for a grocery store and solving <strong>24 real-world business questions</strong> using SQL.</p><p>It demonstrates my ability to build a normalized database from scratch and write both basic and advanced SQL queries to generate actionable business insights.</p><p>I focused on creating a clean, scalable database structure and developed analytical queries to support key decision-making areas such as <strong>customer behavior, sales trends, product performance, supplier evaluation, and employee productivity</strong>.</p> | <img src="https://github.com/Aashriya11/Grocery-Store-Management/blob/main/Assets/Project%20gif.gif" width="380" alt="Project Demo"/> |
 
 ## Project Details
 
@@ -49,9 +36,11 @@ Key highlights:
 - **Language**: SQL  
 - **Tools**: SQL Server Management Studio (SSMS)
 
-## Files in Repository
+## Project Files
 
-- `Database.sql` → Database and Table Creation Scripts  
-- `Tables.sql` → Insert Statements (Synthetic Data)  
-- `Queries.sql` → 24 Business Questions & Solutions 
-- `Key Analysis Questions` - Stating all 24 Questions
+| File | Description |
+|------|-------------|
+| **[Database.sql](https://github.com/Aashriya11/Grocery-Store-Management/blob/82a299e38194d6fef3c440b73889902e4c268c86/Scripts/Database.sql)** | Complete Database & Table Creation Script |
+| **[Tables.sql](https://github.com/Aashriya11/Grocery-Store-Management/blob/82a299e38194d6fef3c440b73889902e4c268c86/Scripts/Tables.sql)** | Synthetic Data Population (43+ Orders) |
+| **[Queries.sql](https://github.com/Aashriya11/Grocery-Store-Management/blob/82a299e38194d6fef3c440b73889902e4c268c86/Scripts/Queries.sql)** | 24 Business Questions with Solutions (Basic to Advanced) |
+
