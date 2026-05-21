@@ -1,16 +1,44 @@
 # Grocery Store Management & Analytics System
+**Domain:** Retail / CPG (Consumer Packaged Goods)
 
-![Tool](https://img.shields.io/badge/Tool-gray?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge)
 
 ## Project Overview
-An end-to-end SQL-based relational database designed to model, manage and analyze transactional data for a retail grocery business. This project demonstrates database design normalization, relational integrity and the execution of analytical queries to derive actionable business insights.
+
+This project involved designing a complete relational database for a grocery store and solving **33 real-world business questions** using SQL. It demonstrates my ability to build a normalized database from scratch and write both basic and advanced SQL queries to generate actionable business insights.
+
+I focused on creating a clean, scalable database structure and developed analytical queries to support key decision-making areas such as customer behavior, sales trends, product performance, supplier evaluation and employee productivity.
+
+## Project Details
+
+I designed and implemented a normalized database schema with proper primary and foreign key relationships. The project includes synthetic transactional data and a comprehensive set of SQL queries ranging from simple aggregations to advanced analytical queries using CTEs and Window Functions.
+
+Key highlights:
+- Built 6 normalized tables with proper relationships
+- Populated realistic synthetic data (43+ orders)
+- Solved 24 business problems through SQL
+- Used advanced SQL techniques for deeper insights
+
+## What I Learned
+
+1. Database design and normalization techniques  
+2. Creating and managing relational tables with constraints (PK & FK)  
+3. Writing efficient multi-table JOINs  
+4. Aggregate functions and GROUP BY for business reporting  
+5. Common Table Expressions (CTEs) and Window Functions (`RANK()`, `LAG()`)  
+6. Date intelligence and trend analysis (Month-over-Month growth)  
+7. Translating business questions into SQL logic  
+8. Performance analysis of customers, products, employees and suppliers  
 
 ## Tech Stack
-* **Database Management System:** MySQL 
-* **Language:** SQL
 
-## Core Analytical Capabilities Built:
-1. **Inventory Management:** Automated low-stock thresholds to mitigate supply chain disruptions.
-2. **Sales & Revenue Tracking:** Structured multi-table joins to aggregate total revenue across distinct product categories.
-3. **Consumer Insights:** Isolated high-value customer purchasing patterns for targeted promotional strategies.
+- **Language**: SQL  
+- **Tools**: SQL Server Management Studio (SSMS)
+
+## Files in Repository
+
+- `Database.sql` → Database and Table Creation Scripts  
+- `Tables.sql` → Insert Statements (Synthetic Data)  
+- `Queries.sql` → 24 Business Questions & Solutions 
+- `Key Analysis Questions` - Stating all 24 Questions
