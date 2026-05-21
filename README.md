@@ -1,4 +1,4 @@
-# Grocery Store Management & Analytics System
+# Grocery Store Management 
 **Domain:** Retail / CPG (Consumer Packaged Goods)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
