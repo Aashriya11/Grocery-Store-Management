@@ -6,9 +6,22 @@
 
 ## Project Overview
 
-This project involved designing a complete relational database for a grocery store and solving **33 real-world business questions** using SQL. It demonstrates my ability to build a normalized database from scratch and write both basic and advanced SQL queries to generate actionable business insights.
+<div style="display: flex; gap: 25px; align-items: flex-start; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 300px;">
+    <p>This project involved designing a complete relational database for a grocery store and solving <strong>33 real-world business questions</strong> using SQL.</p>
+    <p>It demonstrates my ability to build a normalized database from scratch and write both basic and advanced SQL queries to generate actionable business insights.</p>
+    <p>I focused on creating a clean, scalable database structure and developed analytical queries to support key decision-making areas such as <strong>customer behavior, sales trends, product performance, supplier evaluation, and employee productivity</strong>.</p>
+  </div>
 
-I focused on creating a clean, scalable database structure and developed analytical queries to support key decision-making areas such as customer behavior, sales trends, product performance, supplier evaluation and employee productivity.
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github.com/Aashriya11/Grocery-Store-Management/blob/main/Assets/Project%20gif.gif" 
+         width="360" 
+         alt="Project Demo" 
+         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+  </div>
+
+</div>
 
 ## Project Details
 
